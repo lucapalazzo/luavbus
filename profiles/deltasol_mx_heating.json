@@ -1,0 +1,8 @@
+{
+  "id": "0x7E21",
+  "name": "DeltaSol MX [Heating circuit]",
+  "objects": [
+    [ 0, 2, 0, "Set flow temperature", 0.1, "°C" ],
+    [ 2, 1, 0, "Operating status 1", 1 ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0x7722",
+  "name": "DeltaSol E [WMZ]",
+  "objects": [
+    [ 0, 2, 0, "Flow temperature", 0.1, "°C" ],
+    [ 2, 2, 0, "Return temperature", 0.1, "°C" ],
+    [ 4, 2, 0, "Flow rate sensor 8", 1, "l/h" ],
+    [ 6, 2, 0, "Heat quantity", 1, "Wh" ],
+    [ 8, 2, 0, "Heat quantity", 1000, "Wh" ],
+    [ 10, 2, 0, "Heat quantity", 1000000, "Wh" ]
+  ]
+}
